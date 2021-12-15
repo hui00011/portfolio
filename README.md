@@ -6,7 +6,7 @@ In the web development stage, there were actually many difficulties. First of al
 
 What annoys me the most was that on the graphic design page, the order of the pictures was not always adjusted properly. This was the page probably the longest time I spent. I didn't do it in the evening in the first day, so I continued to work the next two day. I did not have a clue, so I look up information online or find similar solutions on forums. While exploring and adjusting, I finally made a layout that I was more satisfied with.
 
-By writing the code of my own portfolio, I have a deeper understanding of BOOSTRAP, and I think it will be easier to do in the future.
+By writing the code of my own portfolio, I have a deeper understanding of Boostrap, and I think it will be easier to do in the future.
 
 A List of Any Assets or Resources I Used That Was Not My Own:
 ![th-fudge](images/th-fudge.jpg)
